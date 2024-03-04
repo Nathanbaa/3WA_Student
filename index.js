@@ -1,5 +1,5 @@
 import fs from "fs";
-import http from "node:http"; // pb acces à localhost
+import http from "node:http";
 import axios from "axios";
 
 // 1. fs writeFile
